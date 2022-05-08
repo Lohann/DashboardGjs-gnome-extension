@@ -1,0 +1,10 @@
+{
+  "name": "Toggle Overview",
+  "description": "Show/Hide gnome overview and applications using dbus",
+  "uuid": "toggle-overview@lohann.dev",
+  "shell-version": [
+    "42"
+  ],
+  "url": "https://github.com/Lohann/toggle-overview-gnome-extension",
+  "version": 1
+}
